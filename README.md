@@ -61,7 +61,7 @@ This project relies on the following libraries, managed using [vcpkg](https://gi
 
    ```bash
    git clone <repository-url>
-   cd OctreeExample
+   cd OctreeExample/OctreeExample
    ```
 
 2. **Create a build directory**:
