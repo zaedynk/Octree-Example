@@ -60,7 +60,7 @@ This project relies on the following libraries, managed using [vcpkg](https://gi
 1. **Clone the Octree Example repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zaedynk/Octree-Example
    cd OctreeExample/OctreeExample
    ```
 
